@@ -4,7 +4,7 @@ import profile from '../../assets/profile.png'
 function Hero() {
     return (
         <div id="Home" className="Hero">
-           <div  className="profile"><img src="src\assets\profile.png" alt="profile_image" /></div> 
+           <div  className="profile"><img src={profile} alt="profile_image" /></div> 
             <h1><span>I'am sonu patidar</span>,frontend developer based in india.</h1>
             <p>I am a passionate Frontend Developer from Mandsaur with strong skills in building responsive, user-friendly, and modern web applications.</p>
             <div className="Hero-action">
