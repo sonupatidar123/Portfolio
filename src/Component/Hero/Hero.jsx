@@ -1,5 +1,6 @@
 import './Hero.css'
 import AnchorLink from 'react-anchor-link-smooth-scroll';
+import profile from '../../assets/profile.png'
 function Hero() {
     return (
         <div id="Home" className="Hero">
