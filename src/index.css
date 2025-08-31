@@ -9,3 +9,6 @@ body{
     color:white;
     font-family: 'outfit';
 }
+@media(max-width:768px){
+    border:2px solid black;
+}
