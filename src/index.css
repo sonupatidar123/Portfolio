@@ -11,4 +11,5 @@ body{
 }
 @media(max-width:768px){
     border:2px solid black;
+    box-size:border-box;
 }
